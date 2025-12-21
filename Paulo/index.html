@@ -265,7 +265,7 @@
         <footer id="contato">
             <div class="separa">
                 <a href="https://wa.me/5511989753945"><button><i class="bi bi-whatsapp"></i></button></a>
-                <i class="bi bi-envelope"> <a href="">Email</a></i>
+                <a href="https://wa.me/5511989753945"><button><i class="bi bi-envelope"></i></button></a>
             </div>
         </footer>
     </main>
@@ -394,7 +394,7 @@
 
         function abrirWhatsApp(nome, preco, descricao) {
             const telefone = "5511989753945";
-            const mensagem = `Olá Paullo, estou interessado no ${nome} ${preco}. ${descricao}`;
+            const mensagem = `Olá Paulo, estou interessado no ${nome} ${preco}. ${descricao}`;
             const url = `https://wa.me/${telefone}?text=${encodeURIComponent(mensagem)}`;
             window.open(url, '_blank');
         }

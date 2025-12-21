@@ -416,8 +416,18 @@
             cursor: pointer;
         }
 
+        form .btn-enviar input:hover {
+            transition: .2s;
+            width: 130px;
+            background-image: linear-gradient(90deg, #d5b179, #fcecd4);
+            color: black;
+            font-weight: 700;
+            cursor: pointer;
+        }
+
         footer {
             box-shadow: 0 0 40px 10px rgba(255, 255, 255, 0.103);
+            background: rgb(243, 243, 243);
             padding: 20px;
         }
 
@@ -438,6 +448,16 @@
             border-radius: 50%;
             border: none;
             background-image: linear-gradient(90deg, #fcecd4, #d5b179);
+            font-size: 22px;
+            transition: .2s;
+        }
+
+        footer button:hover {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            border: none;
+            background-image: linear-gradient(90deg,#d5b179, #fcecd4);
             font-size: 22px;
             transition: .2s;
         }
