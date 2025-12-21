@@ -22,28 +22,26 @@
 }
 
 body {
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: #f5f7fa;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #edf1fe;
     padding: 30px;
+
 }
 
-/* Label */
 label {
     font-size: 16px;
-    color: #333;
+    color: #1b1b1b;
     margin-right: 8px;
 }
 
-/* Select */
 select {
     font-size: 15px;
     padding: 6px 10px;
     border-radius: 6px;
-    border: 1px solid #ccc;
+    border: 1px solid #1f1f1f6e;
     margin-right: 10px;
 }
 
-/* Botão */
 input[type="submit"] {
     font-size: 15px;
     padding: 7px 14px;
@@ -55,23 +53,24 @@ input[type="submit"] {
 }
 
 input[type="submit"]:hover {
-    background-color: #43a047;
+    transition-duration: 0.5s;
+    background-color: #fff;
+    color: #4caf50;
+    border: 1px solid #1f1f1f6e;
+    font-size: 16px;
 }
 
-/* Pergunta final */
 #container {
     margin-top: 30px;
 }
 
-/* Input resposta */
 #container input[type="text"] {
     padding: 6px 10px;
     font-size: 15px;
     border-radius: 6px;
-    border: 1px solid #ccc;
+    border: 1px solid #1f1f1f6e;
 }
 
-/* Feedback */
 #feedback {
     margin-top: 10px;
     font-size: 15px;

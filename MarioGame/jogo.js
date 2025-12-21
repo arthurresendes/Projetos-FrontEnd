@@ -71,8 +71,6 @@ function resTotalElementos() {
 
     var pergunta = document.createElement('label')
     pergunta.innerHTML = 'Quantos Marios apareceram: '
-    pergunta.style.fontFamily = 'Trebuchet MS'
-
 
     var resposta = document.createElement('input')
     resposta.type = 'text'
@@ -84,7 +82,6 @@ function resTotalElementos() {
     validar.value = 'Enviar'
 
     var feedback = document.createElement('p')
-    feedback.style.fontFamily = 'Trebuchet MS'
     feedback.id = 'feedback'
 
     validar.onclick = function () {
