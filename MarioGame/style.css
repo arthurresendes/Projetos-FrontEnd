@@ -1,0 +1,78 @@
+.mario1{
+    height: 50px;
+    width: 50px;
+}
+
+.mario2{
+    height: 75px;
+    width: 75px;
+}
+
+.mario3{
+    height: 90px;
+    width: 90px;
+}
+
+.ladoA{
+    transform: scaleX(1);
+}
+
+.ladoB{
+    transform: scaleX(-1);
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f5f7fa;
+    padding: 30px;
+}
+
+/* Label */
+label {
+    font-size: 16px;
+    color: #333;
+    margin-right: 8px;
+}
+
+/* Select */
+select {
+    font-size: 15px;
+    padding: 6px 10px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    margin-right: 10px;
+}
+
+/* Botão */
+input[type="submit"] {
+    font-size: 15px;
+    padding: 7px 14px;
+    border-radius: 6px;
+    border: none;
+    background-color: #4caf50;
+    color: white;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #43a047;
+}
+
+/* Pergunta final */
+#container {
+    margin-top: 30px;
+}
+
+/* Input resposta */
+#container input[type="text"] {
+    padding: 6px 10px;
+    font-size: 15px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+}
+
+/* Feedback */
+#feedback {
+    margin-top: 10px;
+    font-size: 15px;
+}

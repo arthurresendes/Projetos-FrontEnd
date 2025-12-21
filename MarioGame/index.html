@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mario Jogo</title>
+    <script src="jogo.js"></script>
+    <link rel="shortcut icon" href="Mario.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body onresize="ajustaTela()">
+
+    <label for="nivel" id="nivelabel">Escolha seu nivel:</label>
+    <select id="nivel" name="niveis">
+        <option value="n1">Facil</option>
+        <option value="n2">Medio</option>
+        <option value="n3">Dificil</option>
+    </select>
+    <input type="submit" value="Começar" id="comeca" onclick="inicioJogo()">
+</body>
+
+</html>
