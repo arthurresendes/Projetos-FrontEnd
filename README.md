@@ -60,14 +60,14 @@ Este repositório reúne vários projetos desenvolvidos em HTML,CSS e JS, cada u
 
 ---
 
-## **[MataMosca](/Projetos-HTML/MataMosca/index.html)**  
+## **[Mata Mosca](/Projetos-HTML/MataMosca/index.html)**  
   
 
 ![tech](https://skillicons.dev/icons?i=html,css,js)  
   Jogo que desafia o jogador a "matar" moscas na tela com níveis de dificuldade.
 ---
 
-## **[Mario](/Projetos-HTML/MarioGame/index.html)**  
+## **[Mario Game](/Projetos-HTML/MarioGame/index.html)**  
   
 
 ![tech](https://skillicons.dev/icons?i=html,css,js)  
