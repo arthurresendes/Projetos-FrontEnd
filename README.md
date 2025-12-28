@@ -1,6 +1,6 @@
-# Meus projetos em HTML
+# Meus projetos em Front-End
 
-Este repositório reúne vários projetos desenvolvidos em HTML, cada um com uma proposta diferente. Abaixo, confira um breve resumo de cada projeto. Clique no nome do projeto para ser direcionado.
+Este repositório reúne vários projetos desenvolvidos em HTML,CSS e JS, cada um com uma proposta diferente. Abaixo, confira um breve resumo de cada projeto. Clique no nome do projeto para ser direcionado.
 
 ---
 
