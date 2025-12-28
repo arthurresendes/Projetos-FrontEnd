@@ -4,7 +4,7 @@ Este repositório reúne vários projetos desenvolvidos em HTML,CSS e JS, cada u
 
 ---
 
-## **[Biblia](https://arthurresendes.github.io/Projetos-HTML/Biblia/index.html)**  
+## **[Biblia](https://arthurresendes.github.io/Projetos-FronEnd/Biblia/index.html)**  
   
 
 ![tech](https://skillicons.dev/icons?i=html,css)  
@@ -12,7 +12,7 @@ Este repositório reúne vários projetos desenvolvidos em HTML,CSS e JS, cada u
 
 ---
 
-## **[Chale Hotel](https://arthurresendes.github.io/Projetos-HTML/ChaleHotel/index.html)**  
+## **[Chale Hotel](https://arthurresendes.github.io/Projetos-FronEnd/ChaleHotel/index.html)**  
   
 
 ![tech](https://skillicons.dev/icons?i=html,css)  
@@ -20,7 +20,7 @@ Este repositório reúne vários projetos desenvolvidos em HTML,CSS e JS, cada u
 
 ---
 
-## **[Museu](https://arthurresendes.github.io/Projetos-HTML/Museu/index.html)**  
+## **[Museu](https://arthurresendes.github.io/Projetos-FronEnd/Museu/index.html)**  
   
 
 ![tech](https://skillicons.dev/icons?i=html,css)  
@@ -28,7 +28,7 @@ Este repositório reúne vários projetos desenvolvidos em HTML,CSS e JS, cada u
 
 ---
 
-## **[Spotify](https://arthurresendes.github.io/Projetos-HTML/Spotify/index.html)**  
+## **[Spotify](https://arthurresendes.github.io/Projetos-FronEnd/Spotify/index.html)**  
   
 
 ![tech](https://skillicons.dev/icons?i=html,css,bootstrap)  
@@ -36,7 +36,7 @@ Este repositório reúne vários projetos desenvolvidos em HTML,CSS e JS, cada u
 
 ---
 
-## **[Noticias Cidade](https://arthurresendes.github.io/Projetos-HTML/NoticiasCidade/index.html)**  
+## **[Noticias Cidade](https://arthurresendes.github.io/Projetos-FronEnd/NoticiasCidade/index.html)**  
   
 
 ![tech](https://skillicons.dev/icons?i=html,css)  
@@ -44,7 +44,7 @@ Este repositório reúne vários projetos desenvolvidos em HTML,CSS e JS, cada u
 
 ---
 
-## **[Paulo](https://arthurresendes.github.io/Projetos-HTML/Paulo/index.html)**  
+## **[Paulo](https://arthurresendes.github.io/Projetos-FronEnd/Paulo/index.html)**  
   
 
 ![tech](https://skillicons.dev/icons?i=html,css)  
@@ -52,7 +52,7 @@ Este repositório reúne vários projetos desenvolvidos em HTML,CSS e JS, cada u
 
 ---
 
-## **[Psicologa](https://arthurresendes.github.io/Projetos-HTML/psicologa/index.html)**  
+## **[Psicologa](https://arthurresendes.github.io/Projetos-FronEnd/psicologa/index.html)**  
   
 
 ![tech](https://skillicons.dev/icons?i=html,css)  
@@ -60,14 +60,14 @@ Este repositório reúne vários projetos desenvolvidos em HTML,CSS e JS, cada u
 
 ---
 
-## **[Mata Mosca](/Projetos-HTML/MataMosca/index.html)**  
+## **[Mata Mosca](https://arthurresendes.github.io/Projetos-FronEnd/MataMosca/index.html)**  
   
 
 ![tech](https://skillicons.dev/icons?i=html,css,js)  
   Jogo que desafia o jogador a "matar" moscas na tela com níveis de dificuldade.
 ---
 
-## **[Mario Game](/Projetos-HTML/MarioGame/index.html)**  
+## **[Mario Game](https://arthurresendes.github.io/Projetos-FronEnd/MarioGame/index.html)**  
   
 
 ![tech](https://skillicons.dev/icons?i=html,css,js)  
