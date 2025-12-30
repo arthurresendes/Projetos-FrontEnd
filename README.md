@@ -36,7 +36,7 @@ Este repositório reúne vários projetos desenvolvidos em HTML,CSS e JS, cada u
 
 ---
 
-## **[Noticias Cidade](https://arthurresendes.github.io/Projetos-FronEnd/NoticiasCidade/index.html)**  
+## **[Noticias Cidades](https://arthurresendes.github.io/Projetos-FrontEnd/NoticiasCidades/index.html)**  
   
 
 ![tech](https://skillicons.dev/icons?i=html,css)  
@@ -60,7 +60,7 @@ Este repositório reúne vários projetos desenvolvidos em HTML,CSS e JS, cada u
 
 ---
 
-## **[Mata Mosca](https://arthurresendes.github.io/Projetos-FronEnd/MataMosca/index.html)**  
+## **[Mata Mosca](https://arthurresendes.github.io/Projetos-FrontEnd/MataMosca/app2/index.html)**  
   
 
 ![tech](https://skillicons.dev/icons?i=html,css,js)  
