@@ -4,7 +4,7 @@ Este repositório reúne vários projetos desenvolvidos em HTML,CSS e JS, cada u
 
 ---
 
-## **[Biblia](https://arthurresendes.github.io/Projetos-FronEnd/Biblia/index.html)**  
+## **[Biblia](https://arthurresendes.github.io/Projetos-FrontEnd/Biblia/index.html)**  
   
 
 ![tech](https://skillicons.dev/icons?i=html,css)  
@@ -12,7 +12,7 @@ Este repositório reúne vários projetos desenvolvidos em HTML,CSS e JS, cada u
 
 ---
 
-## **[Chale Hotel](https://arthurresendes.github.io/Projetos-FronEnd/ChaleHotel/index.html)**  
+## **[Chale Hotel](https://arthurresendes.github.io/Projetos-FrontEnd/ChaleHotel/index.html)**  
   
 
 ![tech](https://skillicons.dev/icons?i=html,css)  
